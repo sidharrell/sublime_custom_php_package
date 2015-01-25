@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[/**
+* @var
+*/
+protected
+]]></content>
+    <tabTrigger>protected</tabTrigger>
+    <scope>source.php</scope>
+    <description>property</description>
+</snippet>

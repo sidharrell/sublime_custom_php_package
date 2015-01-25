@@ -1,0 +1,31 @@
+{
+	"scope": "source",
+
+	"completions":
+	[
+		"php",
+		"<?php",
+		"namespace",
+		"use",
+		"Class",
+		"class",
+		"extends",
+		"public",
+		"private",
+		"function",
+		"return",
+		"@file",
+		"Drupal",
+		"Core",
+		"Form",
+		"Entity",
+		"EntityForm",
+		"Query",
+		"QueryFactory",
+		"FormStateInterface ",
+		"Symfony",
+		"Component",
+		"DependencyInjection",
+		"ContainerInterface",
+	]
+}

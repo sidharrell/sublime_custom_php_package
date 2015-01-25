@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[<?php
+
+/**
+* @file
+* Contains
+*/
+
+namespace
+]]></content>
+    <tabTrigger>file</tabTrigger>
+    <scope>source.php</scope>
+    <description>class …</description>
+</snippet>
